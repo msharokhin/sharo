@@ -1,2 +1,2 @@
 # Hello, world!
-I study at MIREA
+I study 
